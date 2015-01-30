@@ -1,4 +1,4 @@
-package leet_code_oj_impl.cn.com.pingouin.leet_code.oj.impl;
+package cn.com.pingouin.leet_code.oj.impl;
 
 public class AddTwoNumbers {
 
